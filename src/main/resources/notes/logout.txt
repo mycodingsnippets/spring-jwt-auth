@@ -1,0 +1,6 @@
+Invalidation ways:
+
+* Delete Token from Browser
+* Introduce Expiration times for JWT
+* Use Refresh Tokens
+* Token Blacklisting
